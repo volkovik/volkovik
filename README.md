@@ -36,10 +36,11 @@
   <tr>
     <td align="left"><b>Tools</b></td>
     <td>
+      <img src="https://img.shields.io/badge/Nginx-cccccc?style=plastic&logo=nginx&logoColor=black" height="24" />&nbsp;
+      <img src="https://img.shields.io/badge/Linux-7c7d91?style=plastic&logo=linux&logoColor=white" height="24" />&nbsp;
       <img src="https://img.shields.io/badge/PostgreSQL-cccccc?style=plastic&logo=postgresql&logoColor=black" height="24" />&nbsp;
-      <img src="https://img.shields.io/badge/Alembic-7c7d91?style=plastic&logo=python&logoColor=white" height="24" />&nbsp;
-      <img src="https://img.shields.io/badge/Docker-cccccc?style=plastic&logo=docker&logoColor=black" height="24" />&nbsp;
-      <img src="https://img.shields.io/badge/Git-7c7d91?style=plastic&logo=git&logoColor=white" height="24" />
+      <img src="https://img.shields.io/badge/Docker-7c7d91?style=plastic&logo=docker&logoColor=white" height="24" />&nbsp;
+      <img src="https://img.shields.io/badge/Git-cccccc?style=plastic&logo=git&logoColor=black" height="24" />
     </td>
   </tr>
   <tr>
@@ -48,16 +49,16 @@
       <img src="https://img.shields.io/badge/Django-7c7d91?style=plastic&logo=django&logoColor=white" height="24" />&nbsp;
       <img src="https://img.shields.io/badge/Wagtail-cccccc?style=plastic&logo=wagtail&logoColor=black" height="24" />&nbsp;
       <img src="https://img.shields.io/badge/Bootstrap-7c7d91?style=plastic&logo=bootstrap&logoColor=white" height="24" />&nbsp;
-      <img src="https://img.shields.io/badge/discord.py-cccccc?style=plastic&logo=discord&logoColor=black" height="24" />
     </td>
   </tr>
 </table>
 
 ### Professional Focus & Skills
 * **E-commerce & Web Apps:** Building custom online stores and platforms for selling digital or physical products.
-* **UI & Layouts:** Creating high-quality, responsive websites from complex designs using Tailwind.
-* **Modern Web Architecture:** Moving from old monolithic systems to fast, modern setups with FastAPI and React.
-* **Scalable Automation:** Developing powerful, asynchronous bots with complex logic and API connections.
+* **UI & Layouts:** Creating high-quality, responsive websites from complex designs using **Tailwind**.
+* **Modern Tech Stack:** Moving from old monolithic systems to fast, modern setups with **FastAPI** and **React**.
+* **Telegram Bots:** Developing powerful, asynchronous bots with complex logic and API connections.
+* **Deployment & DevOps:** Setting up **Linux** servers and **Nginx** to host apps and bots reliably.
 
 ---
 
