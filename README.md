@@ -68,6 +68,6 @@
 </br>
 <div align="center">
   <img src="./images/twopaws.png" height="31" />
-  <img src="./images/spacelink.git" height="31" />
+  <img src="./images/spacelink.gif" height="31" />
   <img src="./images/Censor_NYRc.gif" height="31" />
 </div>
