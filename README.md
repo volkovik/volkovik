@@ -1,14 +1,11 @@
 </br>
 </br>
-</br>
-</br>
 <p align="center">
   ₊˙ 🐾 ♡ ˚₊
 </p>
 </br>
 </br>
-</br>
-</br>
+
 ---
 
 **Backend-heavy Fullstack Developer** • Specializing in high-performance Python web services & automation.
@@ -68,8 +65,7 @@
 * **Deployment & DevOps:** Setting up **Linux** servers and **Nginx** to host apps and bots reliably.
 
 ---
-</br>
-</br>
+
 </br>
 </br>
 <p align="center">
@@ -84,5 +80,4 @@
 </div>
 </br>
 </br>
-</br>
-</br>
+
