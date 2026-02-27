@@ -67,6 +67,7 @@
 </p>
 </br>
 <div align="center">
-  <img src="https://88x31.kate.pet/twopaws.png" height="31" />
-  <img src="https://88x31.kate.pet/Censor_NYRc.gif" height="31" />
+  <img src="./images/twopaws.png" height="31" />
+  <img src="./images/spacelink.git" height="31" />
+  <img src="./images/Censor_NYRc.gif" height="31" />
 </div>
