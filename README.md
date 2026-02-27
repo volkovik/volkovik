@@ -1,9 +1,7 @@
 </br>
-</br>
 <p align="center">
   ₊˙ 🐾 ♡ ˚₊
 </p>
-</br>
 </br>
 
 ---
@@ -67,7 +65,6 @@
 ---
 
 </br>
-</br>
 <p align="center">
   ₊˚ ☁️ ✨ ˚₊
 </p>
@@ -79,5 +76,3 @@
   <img src="./images/Censor_NYRc.gif" height="31" />
 </div>
 </br>
-</br>
-
