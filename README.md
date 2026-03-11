@@ -40,7 +40,6 @@
       <img src="https://img.shields.io/badge/Nginx-cccccc?style=plastic&logo=nginx&logoColor=black" height="24" />&nbsp;
       <img src="https://img.shields.io/badge/Linux-7c7d91?style=plastic&logo=linux&logoColor=white" height="24" />&nbsp;
       <img src="https://img.shields.io/badge/PostgreSQL-cccccc?style=plastic&logo=postgresql&logoColor=black" height="24" />&nbsp;
-      <img src="https://img.shields.io/badge/Docker-7c7d91?style=plastic&logo=docker&logoColor=white" height="24" />&nbsp;
       <img src="https://img.shields.io/badge/Git-cccccc?style=plastic&logo=git&logoColor=black" height="24" />
     </td>
   </tr>
